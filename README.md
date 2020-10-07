@@ -3,4 +3,4 @@ Para atingir este objetivo geral, os objetivos específicos são conhecer os pro
 testando hipóteses á possíveis padrões em meio a esses dados, usando o framework Pandas; criar modelos de visualização destes dados, usando Matplotilib e Seaborn e, 
 criar um modelo preditivo usando o Scikit-Learn, usando o método de aprendizagem supervisionada.
 
-A base dados usada para o andamento deste estudo, pode ser acessada através do site Kaggl: https://www.kaggle.com/rodsaldanha/arketing-campaign
+A base dados usada para o andamento deste estudo, pode ser acessada através do site Kaggle: https://www.kaggle.com/rodsaldanha/arketing-campaign
